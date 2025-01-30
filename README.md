@@ -1,4 +1,4 @@
-Hey 👋🏻 <br>Myself Tayyab ✨<br><br>I'm a professional MERN Stack Developer 🚀 <br>I have a couple of years experience in web development 😊<br>I'm able to make dynamic web and mobile applications using MERN Stack 🖥 <br>Improving Code Quality with Automated Testing ⚙<br>Grow SEO to rank up the business 💸<br><br>Let's Connect for more 🤝
+Hey 👋🏻 <br>Myself Tayyab ✨<br><br>✔️ I'm a professional MERN Stack Developer 🚀 <br>✔️ I have over couple of years experience in web development 😊 <br>✔️ I'm skilled in creating scalable and user-friendly web and applications 🖥️ <br>✔️ Improving Code Quality with Automated Testing ⚙ <br><br>Let's Connect for more 🤝
 
 
 ## 🌐 Socials:
